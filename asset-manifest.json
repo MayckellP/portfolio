@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a15fd557.css",
+    "main.js": "/static/js/main.e8d4beb3.js",
+    "index.html": "/index.html",
+    "static/media/Vector_Studies.svg": "/static/media/Vector_Studies.63e25f1aad314164f17e.svg",
+    "main.a15fd557.css.map": "/static/css/main.a15fd557.css.map",
+    "main.e8d4beb3.js.map": "/static/js/main.e8d4beb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a15fd557.css",
+    "static/js/main.e8d4beb3.js"
+  ]
+}
