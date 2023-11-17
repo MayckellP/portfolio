@@ -131,6 +131,7 @@
   flex-direction: column;
   align-items: flex-end;
   padding-right: 2rem;
+  visibility: visible;
 }
 .btn-showMore {
   background-color: #2ac4e6;
